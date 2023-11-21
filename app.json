@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2f1e87c0-db93-47b3-971b-f6eb8637ab68"
+      }
+    },
+    "owner": "saitamahoang"
   }
 }
